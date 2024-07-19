@@ -8,3 +8,6 @@ Then I used Linear Regression, XGBoost Regressor, Support Vector Regressor, Rand
 I used GridSearch along k-fold cross validation techniques to find the best estimators of individual method.
 
 <img width="582" alt="Screenshot 2024-07-19 at 2 27 39 PM" src="https://github.com/user-attachments/assets/514b89a5-9a1d-487f-bbe5-e9479653b624">
+
+As XGBoost is performing better in this problem. I checked out some performance metrics likes $R^2$, residual plot distribution etc given below:
+
